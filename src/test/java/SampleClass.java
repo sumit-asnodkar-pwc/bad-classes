@@ -1,4 +1,4 @@
-#badSampleCode
+#badSampleCode121212
 public class SampleClass {
   public static int SAMPLE_CONSTANT = 42;
 
